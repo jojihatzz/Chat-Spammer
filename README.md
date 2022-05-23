@@ -10,6 +10,10 @@
 
 
 
+![alt text](https://raw.githubusercontent.com/jojihatzz/Chat-Spammer/main/bg.png)
+
+
+
 
 
 
