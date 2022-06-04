@@ -23,13 +23,12 @@ def title():
 
 def mainapp():
   inputf = input("Enter the message: ")
-  times = input("How many times?: ")
-  times = int(times)
+  times = int(input("How many times?: "))
   print("Sending messages...")
   time.sleep(2)
   for i in range(0,times):
     pyautogui.typewrite(inputf + '\n')
-    time.sleep(1)
+  time.sleep(1)
   print("Done")
   time.sleep(2)
   print("Quitting...")
