@@ -33,7 +33,12 @@ pip install -r requirements.txt
 python spam.py
 ```
 
+## How to use
 
+1. Enter the text you want to spam.
+2. Enter the number of messages you want to send.
+3. Go to the chat input field and wait for the bot to send the messages.
+4. Done :D
 
 ## Author
 
